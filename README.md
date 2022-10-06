@@ -1,6 +1,6 @@
 👋 Hi, I’m @g-marcin and Im currently developing my passion for computer-science. 
 
-         Can't wait to get the tools required to create new applications, fix bugs and write new functionalities for existing ones. 
+      Can't wait to get the tools required to create new applications, fix bugs and write new functionalities for existing ones. 
   
 For a few years Ive been a computer games freak and suddenly get intrested in more complex aspects of using computer. 
   

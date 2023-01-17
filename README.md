@@ -7,5 +7,14 @@ For a few years Ive been a computer games freak and suddenly get intrested in mo
     My journey started while I was onboard the vessel working on repetitive tasks in port documents.
  
 Currently learning Python 3.x to catch fundamentals on programming and computer - apps and web-apps design patterns.(TETRIS project.)------Suspended
-Currently learning Js and React
+Currently learning Js and React.
+
+My projects hosted via netlify:
+Calculator:
+https://g-marcin-calculator.netlify.app/
+myWordle:
+https://g-marcin-wordle.netlify.app/
+react-todo-app:
+https://g-marcin-react-todo-app.netlify.app/
+
  

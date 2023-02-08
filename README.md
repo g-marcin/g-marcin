@@ -6,10 +6,13 @@ For a few years Ive been a computer games freak and one day get intrested in mor
   
     My journey started while I was onboard the vessel working on repetitive tasks in port documents.
  
-Currently learning Python 3.x to catch fundamentals on programming and computer - apps and web-apps design patterns.(TETRIS project.)------Suspended
-Currently learning Js and React.
+
+Currently learning Javascript and React.
+
+Familiarizing with git-CLI and git-desktop when developing my projects or practicing new technologies to increase my nowledge.
 
 My projects hosted via netlify:
+</br>
 SunnyVibes:
 https://g-marcin-sunnyvibes.netlify.app/
 </br>

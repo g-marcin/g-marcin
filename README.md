@@ -12,10 +12,13 @@ Currently learning Js and React.
 My projects hosted via netlify:
 SunnyVibes:
 https://g-marcin-sunnyvibes.netlify.app/
+</br>
 Calculator:
 https://g-marcin-calculator.netlify.app/
+</br>
 myWordle:
 https://g-marcin-wordle.netlify.app/
+</br>
 react-todo-app:
 https://g-marcin-react-todo-app.netlify.app/
 

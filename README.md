@@ -9,7 +9,7 @@ For a few years Ive been a computer games freak and one day get intrested in mor
 
 Currently learning Javascript and React.
 
-Familiarizing with git-CLI and git-desktop when developing my projects or practicing new technologies to increase my nowledge.
+Familiarizing with git-CLI and git-desktop when developing my projects or practicing new technologies to increase my knowledge.
 
 My projects hosted via netlify:
 </br>

@@ -25,6 +25,7 @@ https://g-marcin-wordle.netlify.app/
 react-todo-app:
 https://g-marcin-react-todo-app.netlify.app/
 </br>
+
 A journal about my efforts:
 </br>
 https://gmarcinblog.wordpress.com

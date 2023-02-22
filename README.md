@@ -1,10 +1,10 @@
 👋 Hi, I’m @g-marcin and Im currently developing my passion for computer-science. 
 
-    Can't wait to get the tools required to create new applications, fix bugs and write new functionalities for existing ones. 
+Can't wait to get the tools required to create new applications, fix bugs and write new functionalities for existing ones. 
   
 For a few years Ive been a computer games freak and one day get intrested in more complex aspects of using computer. 
   
-    My journey started while I was onboard the vessel working on repetitive tasks in port documents.
+My journey started while I was onboard the vessel working on repetitive tasks in port documents.
  
 
 Currently learning Javascript and React.
@@ -26,8 +26,9 @@ react-todo-app:
 https://g-marcin-react-todo-app.netlify.app/
 </br>
 word-game (exercise of josh Comeau joy of react course)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1a66cfb2-61cc-4df7-acca-654c4cd7ce06/deploy-status)](https://app.netlify.com/sites/jorwordgame/deploys)
+
 https://jorwordgame.netlify.app
+-----[![Netlify Status](https://api.netlify.com/api/v1/badges/1a66cfb2-61cc-4df7-acca-654c4cd7ce06/deploy-status)](https://app.netlify.com/sites/jorwordgame/deploys)
 
 A journal about my efforts:
 </br>

@@ -31,10 +31,11 @@ My projects hosted via netlify:
     <td class="tg-0lax">https://g-marcin-calculator.netlify.app/</td>
     <td class="tg-0lax">[![Netlify Status](https://api.netlify.com/api/v1/badges/e1e9b8fa-49cb-44ed-bd5a-29208ee755ac/deploy-status)](https://app.netlify.com/sites/g-marcin-calculator/deploys)</td>
   </tr>
+  
   <tr>
     <td class="tg-0lax">myWordle:</td>
     <td class="tg-0lax">https://g-marcin-wordle.netlify.app/</td>
-    <td class="tg-0lax">[![Netlify Status](https://api.netlify.com/api/v1/badges/4103a21d-475e-49a3-90e3-3bd6e633c46c/deploy-status)](https://app.netlify.com/sites/g-marcin-wordle/deploys)</td>
+    <td class="tg-0lax">[![Netlify Status](https://api.netlify.com/api/v1/badges/4103a21d-475e-49a3-90e3-3bd6e633c46c/deploy-status)](https://app.netlify.com/sites/g-marcin-wordle/deploys)]</td>
   </tr>
   <tr>
     <td class="tg-0lax">react-todo-app:</td>

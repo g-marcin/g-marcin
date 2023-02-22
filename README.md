@@ -12,24 +12,42 @@ Currently learning Javascript and React.
 Familiarizing with git-CLI and git-desktop when developing my projects or practicing new technologies to increase my knowledge.
 
 My projects hosted via netlify:
-<table>
-<td>
-    <tr>
-    1
-    </tr>
-    <td/>
-<td>
-      <tr>
-    2
-    </tr>
-    <td/>
-<td>
-      <tr>
-    3
-    </tr>
-    <td/>    
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Name:</th>
+    <th class="tg-0lax">Link:</th>
+    <th class="tg-0lax">Status:</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">SunnyVibes:</td>
+    <td class="tg-0lax">https://g-marcin-sunnyvibes.netlify.app/</td>
+    <td class="tg-0lax">[![Netlify Status](https://api.netlify.com/api/v1/badges/50e81ddb-3c2b-4c85-aba9-ecd554ca25a2/deploy-status)](https://app.netlify.com/sites/g-marcin-sunnyvibes/deploys)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Calculator:</td>
+    <td class="tg-0lax">https://g-marcin-calculator.netlify.app/</td>
+    <td class="tg-0lax">[![Netlify Status](https://api.netlify.com/api/v1/badges/e1e9b8fa-49cb-44ed-bd5a-29208ee755ac/deploy-status)](https://app.netlify.com/sites/g-marcin-calculator/deploys)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">myWordle:</td>
+    <td class="tg-0lax">https://g-marcin-wordle.netlify.app/</td>
+    <td class="tg-0lax">[![Netlify Status](https://api.netlify.com/api/v1/badges/4103a21d-475e-49a3-90e3-3bd6e633c46c/deploy-status)](https://app.netlify.com/sites/g-marcin-wordle/deploys)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">react-todo-app:</td>
+    <td class="tg-0lax">https://g-marcin-react-todo-app.netlify.app/</td>
+    <td class="tg-0lax">[![Netlify Status](https://api.netlify.com/api/v1/badges/0c3da67a-dd7e-4c16-b3c4-ae440769e72b/deploy-status)](https://app.netlify.com/sites/g-marcin-react-todo-app/deploys)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">word-game (exercise of josh Comeau joy of react course)</td>
+    <td class="tg-0lax">https://jorwordgame.netlify.app</td>
+    <td class="tg-0lax">[![Netlify Status](https://api.netlify.com/api/v1/badges/1a66cfb2-61cc-4df7-acca-654c4cd7ce06/deploy-status)](https://app.netlify.com/sites/jorwordgame/deploys)</td>
+  </tr>
+</tbody>
 </table>
-
 
 
 

@@ -12,6 +12,27 @@ Currently learning Javascript and React.
 Familiarizing with git-CLI and git-desktop when developing my projects or practicing new technologies to increase my knowledge.
 
 My projects hosted via netlify:
+<table>
+<td>
+    <tr>
+    1
+    </tr>
+    <td/>
+<td>
+      <tr>
+    2
+    </tr>
+    <td/>
+<td>
+      <tr>
+    3
+    </tr>
+    <td/>    
+</table>
+
+
+
+
 </br>
 SunnyVibes:
 https://g-marcin-sunnyvibes.netlify.app/

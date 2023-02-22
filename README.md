@@ -26,7 +26,6 @@ react-todo-app:
 https://g-marcin-react-todo-app.netlify.app/
 </br>
 word-game (exercise of josh Comeau joy of react course)
-
 https://jorwordgame.netlify.app
 -----[![Netlify Status](https://api.netlify.com/api/v1/badges/1a66cfb2-61cc-4df7-acca-654c4cd7ce06/deploy-status)](https://app.netlify.com/sites/jorwordgame/deploys)
 

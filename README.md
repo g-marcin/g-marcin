@@ -25,6 +25,8 @@ https://g-marcin-wordle.netlify.app/
 react-todo-app:
 https://g-marcin-react-todo-app.netlify.app/
 </br>
+word-game (exercise of josh Comeau joy of react course)
+jorwordgame.netlify.app
 
 A journal about my efforts:
 </br>

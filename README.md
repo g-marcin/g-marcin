@@ -38,10 +38,16 @@ My projects hosted via netlify:
     <td class="tg-0lax">OK</td>
   </tr>
   <tr>
-    <td class="tg-0lax">react-todo-app:</td>
-    <td class="tg-0lax">https://g-marcin-react-todo-app.netlify.app/</td>
+    <td class="tg-0lax">react-todo-app1.0-deprecated:</td>
+    <td class="tg-0lax" style="text-decoration: line-through;">https://g-marcin-react-todo-app.netlify.app/</td>
     <td class="tg-0lax">OK</td>
   </tr>
+    <tr>
+    <td class="tg-0lax">react-todo-app2.0:</td>
+    <td class="tg-0lax">https://g-marcin-react-todo-app2.netlify.app/</td>
+    <td class="tg-0lax">OK</td>
+  </tr>
+    
   <tr>
     <td class="tg-0lax">word-game (exercise of josh Comeau joy of react course)</td>
     <td class="tg-0lax">https://jorwordgame.netlify.app</td>

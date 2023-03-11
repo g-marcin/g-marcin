@@ -39,7 +39,7 @@ My projects hosted via netlify:
   <tr>
     <td class="tg-0lax">react-todo-app1.0-deprecated:</td>
     <td class="tg-0lax" >https://g-marcin-react-todo-app.netlify.app</td>
-    <td class="tg-0lax">OK</td>
+    <td class="tg-0lax">deprecated</td>
   </tr>   
     <tr>
     <td class="tg-0lax">react-todo-app2.0:</td>

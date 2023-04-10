@@ -63,7 +63,7 @@ My projects hosted via netlify:
 
 
 
-A journal about my efforts:
+My journal/blog:
 </br>
 https://gmarcinblog.wordpress.com
 

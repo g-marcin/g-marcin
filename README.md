@@ -26,11 +26,11 @@ My projects hosted via netlify:
     <td class="tg-0lax">https://g-marcin-sunnyvibes.netlify.app/</td>
     <td class="tg-0lax">OK</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td class="tg-0lax">Calculator:</td>
     <td class="tg-0lax">https://g-marcin-calculator.netlify.app/</td>
     <td class="tg-0lax">OK</td>
-  </tr>
+  </tr> -->
   <tr>
     <td class="tg-0lax">myWordle:</td>
     <td class="tg-0lax">https://g-marcin-wordle.netlify.app/</td>

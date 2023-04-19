@@ -50,7 +50,7 @@ My projects hosted via netlify:
   </tr>
     
    <tr>
-    <td class="tg-0lax">freelancer-website(layout exercise)</td>
+    <td class="tg-0lax">freelancer-website</td>
     <td class="tg-0lax">https://freelancer-website2.netlify.app/</td>
     <td class="tg-0lax">OK</td>
   </tr>

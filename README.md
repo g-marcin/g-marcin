@@ -21,6 +21,23 @@ My projects hosted via netlify:
   </tr>
 </thead>
 <tbody>
+       <tr>
+    <td class="tg-0lax">freelancer-website</td>
+    <td class="tg-0lax">https://freelancer-website2.netlify.app/</td>
+    <td class="tg-0lax">OK</td>
+  </tr> 
+    <tr>
+    <td class="tg-0lax">shop-cart:</td>
+    <td class="tg-0lax">https://shop-cart2.netlify.app/</td>
+    <td class="tg-0lax">OK</td>
+  </tr>
+    
+   <tr>
+    <td class="tg-0lax">word-game</td>
+    <td class="tg-0lax">https://jorwordgame.netlify.app</td>
+    <td class="tg-0lax">OK</td>
+  </tr>
+    
   <tr>
     <td class="tg-0lax">SunnyVibes:</td>
     <td class="tg-0lax">https://g-marcin-sunnyvibes.netlify.app/</td>
@@ -31,11 +48,7 @@ My projects hosted via netlify:
     <td class="tg-0lax">https://g-marcin-calculator.netlify.app/</td>
     <td class="tg-0lax">OK</td>
   </tr> -->
-  <tr>
-    <td class="tg-0lax">myWordle:</td>
-    <td class="tg-0lax">https://g-marcin-wordle.netlify.app/</td>
-    <td class="tg-0lax">OK</td>
-  </tr>
+
    
   <tr>
     <td class="tg-0lax">react-todo-app</td>
@@ -43,17 +56,7 @@ My projects hosted via netlify:
     <td class="tg-0lax">OK</td>
   </tr>
     
-  <tr>
-    <td class="tg-0lax">word-game</td>
-    <td class="tg-0lax">https://jorwordgame.netlify.app</td>
-    <td class="tg-0lax">OK</td>
-  </tr>
-    
-   <tr>
-    <td class="tg-0lax">freelancer-website</td>
-    <td class="tg-0lax">https://freelancer-website2.netlify.app/</td>
-    <td class="tg-0lax">OK</td>
-  </tr>
+ 
     
    
 </tbody>

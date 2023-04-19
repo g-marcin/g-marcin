@@ -38,13 +38,13 @@ My projects hosted via netlify:
   </tr>
    
   <tr>
-    <td class="tg-0lax">react-todo-app2.0:</td>
+    <td class="tg-0lax">react-todo-app</td>
     <td class="tg-0lax">https://g-marcin-react-todo-app2.netlify.app/</td>
     <td class="tg-0lax">OK</td>
   </tr>
     
   <tr>
-    <td class="tg-0lax">word-game )</td>
+    <td class="tg-0lax">word-game</td>
     <td class="tg-0lax">https://jorwordgame.netlify.app</td>
     <td class="tg-0lax">OK</td>
   </tr>

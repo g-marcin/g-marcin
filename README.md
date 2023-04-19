@@ -4,7 +4,7 @@
   
 For a few years Ive been a computer games freak and one day get intrested in more complex aspects of using computer. 
   
-    My journey started while I was onboard the vessel working on repetitive tasks in port documents.
+    My journey started while I was onboard the vessel working on repetitive tasks in port documents and be passionate user of Nautical Charts and ECDIS UI/UX. 
  
 
 Currently learning Javascript and React.

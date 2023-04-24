@@ -11,7 +11,7 @@ Currently learning Javascript and React.
 
 Familiarizing with git-CLI and git-desktop when developing my projects or practicing new technologies to increase my knowledge.
 
-My projects hosted via netlify:
+<h2>My projects hosted via netlify:</h2>
 <table class="tg">
 <thead>
   <tr>

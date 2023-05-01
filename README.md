@@ -63,10 +63,12 @@ Familiarizing with git-CLI and git-desktop when developing my projects or practi
 </table>
 
 
+<h2>Skills:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,git,vscode,webpack,vite,mui&theme=light&perline=5)](https://skillicons.dev)
 
 
-
-My journal/blog:
+<h2>My journal/blog:</h2>
 </br>
 https://gmarcinblog.wordpress.com
 

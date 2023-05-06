@@ -67,5 +67,6 @@ I deeply focus on getting a good understanding of javascript characteristics and
 <h2>My journal/blog:</h2>
 
 Go ahead and check my blog for recent posts:
+<br>
 https://gmarcinblog.wordpress.com
  

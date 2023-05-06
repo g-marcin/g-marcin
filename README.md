@@ -62,9 +62,25 @@ I deeply focus on getting a good understanding of javascript characteristics and
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,git,vscode,webpack,vite,mui&theme=light&perline=5)](https://skillicons.dev)
 
 
-<h2>My journal/blog:</h2>
+<h2>Journal/blog:</h2>
 
 Go ahead and check my blog for recent posts:
-<br>
-https://gmarcinblog.wordpress.com
+
+      
+
+ <table class="tg">
+
+<tbody>
+       <tr>
+    <td class="tg-0lax">g-marcin blog:</td>
+    <td class="tg-0lax"> https://gmarcinblog.wordpress.com</td>
+    <td class="tg-0lax">OK</td>
+  </tr> 
  
+    
+
+ 
+    
+   
+</tbody>
+</table>

@@ -1,7 +1,5 @@
 <h2>About me:</h2>
 
-My name is Marcin,
-
 Fine design and bringing it into life is what I am passionate about. That is why I decided to change the course of my career and started to learn web development. With the background in nautical science I am lookinng for my first commercial experience as a frontend developer.
  
 I deeply focus on getting a good understanding of javascript characteristics and environment. In my projects I take advantage of tools such as: static type checkers - Typescript, linters - ESlint and code formatters - Prettify. On regular basis i revise studied topics and collect them into a blog posts. 

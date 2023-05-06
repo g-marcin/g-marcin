@@ -1,17 +1,13 @@
-👋 Hi, I’m @g-marcin and Im currently developing my passion for computer-science. 
+<h2>About me:</h2>
 
-    Can't wait to get the tools required to create new applications, fix bugs and write new functionalities for existing ones. 
-  
-For a few years Ive been a computer games freak and one day get intrested in more complex aspects of using computer. 
-  
-    My journey started while I was onboard the vessel working on repetitive tasks in port documents and be passionate user of Nautical Charts and ECDIS UI/UX. 
+My name is Marcin,
+
+Fine design and bringing it into life is what I am passionate about. That is why I decided to change the course of my career and started to learn web development. With the background in nautical science I am lookinng for my first commercial experience as a frontend developer.
  
+I deeply focus on getting a good understanding of javascript characteristics and environment. In my projects I take advantage of tools such as: static type checkers - Typescript, linters - ESlint and code formatters - Prettify. On regular basis i revise studied topics and collect them into a blog posts. 
 
-Currently learning Javascript and React.
 
-Familiarizing with git-CLI and git-desktop when developing my projects or practicing new technologies to increase my knowledge.
-
-<h2>My projects hosted via netlify:</h2>
+<h2>Projects:</h2>
 <table class="tg">
 <thead>
   <tr>
@@ -32,17 +28,17 @@ Familiarizing with git-CLI and git-desktop when developing my projects or practi
     <td class="tg-0lax">OK</td>
   </tr>
     
-   <tr>
+<!--    <tr>
     <td class="tg-0lax">word-game</td>
     <td class="tg-0lax">https://jorwordgame.netlify.app</td>
     <td class="tg-0lax">OK</td>
-  </tr>
+  </tr> -->
     
-  <tr>
+<!--   <tr>
     <td class="tg-0lax">SunnyVibes:</td>
     <td class="tg-0lax">https://g-marcin-sunnyvibes.netlify.app/</td>
     <td class="tg-0lax">OK</td>
-  </tr>
+  </tr> -->
 <!--   <tr>
     <td class="tg-0lax">Calculator:</td>
     <td class="tg-0lax">https://g-marcin-calculator.netlify.app/</td>
@@ -69,8 +65,7 @@ Familiarizing with git-CLI and git-desktop when developing my projects or practi
 
 
 <h2>My journal/blog:</h2>
-</br>
+
+Go ahead and check my blog for recent posts:
 https://gmarcinblog.wordpress.com
-
-
  

@@ -74,7 +74,7 @@ Go ahead and check my blog for recent posts:
        <tr>
     <td class="tg-0lax">g-marcin blog:</td>
     <td class="tg-0lax"> https://gmarcinblog.wordpress.com</td>
-    <td class="tg-0lax">OK</td>
+  
   </tr> 
  
     

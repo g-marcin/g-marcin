@@ -43,12 +43,18 @@ I deeply focus on getting a good understanding of javascript characteristics and
     <td class="tg-0lax">OK</td>
   </tr> -->
 
+   <tr>
+    <td class="tg-0lax">react-exchange</td>
+    <td class="tg-0lax">https://g-marcin-react-exchange1.netlify.app/</td>
+    <td class="tg-0lax">OK</td>
+  </tr>
    
   <tr>
     <td class="tg-0lax">react-todo-app</td>
     <td class="tg-0lax">https://g-marcin-react-todo-app2.netlify.app/</td>
     <td class="tg-0lax">OK</td>
   </tr>
+
     
  
     

@@ -1,8 +1,10 @@
 <h2>About me:</h2>
 
 Fine design and bringing it into life is what I am passionate about. That is why I decided to change the course of my career and started to learn web development. With the background in nautical science I am lookinng for my first commercial experience as a frontend developer.
- 
+
+
 I deeply focus on getting a good understanding of javascript characteristics and environment. In my projects I take advantage of tools such as: static type checkers - Typescript, linters - ESlint and code formatters - Prettify. On regular basis i revise studied topics and collect them into a blog posts. 
+
 
 
 <h2>Projects:</h2>
@@ -53,6 +55,7 @@ I deeply focus on getting a good understanding of javascript characteristics and
     <td class="tg-0lax">react-todo-app</td>
     <td class="tg-0lax">https://g-marcin-react-todo-app2.netlify.app/</td>
     <td class="tg-0lax">OK</td>
+   
   </tr>
 
     
@@ -72,21 +75,9 @@ I deeply focus on getting a good understanding of javascript characteristics and
 
 Go ahead and check my blog for recent posts:
 
-      
+ |  | Name | Link
+| --- | --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=wordpress&theme=light&perline=5)](https://skillicons.dev) |  g-marcin blog:  |  https://gmarcinblog.wordpress.com  | 
 
- <table class="tg">
 
-<tbody>
-       <tr>
-    <td class="tg-0lax">g-marcin blog:</td>
-    <td class="tg-0lax"> https://gmarcinblog.wordpress.com</td>
-  
-  </tr> 
- 
-    
-
- 
-    
-   
-</tbody>
-</table>
+</div>

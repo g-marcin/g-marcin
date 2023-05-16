@@ -81,3 +81,6 @@ Go ahead and check my blog for recent posts:
 
 
 </div>
+</br>
+
+  ![](https://komarev.com/ghpvc/?username=g-marcin)

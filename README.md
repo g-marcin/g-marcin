@@ -83,4 +83,8 @@ Go ahead and check my blog for recent posts:
 </div>
 </br>
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-marcin&count_private=true&theme=transparent)
+
+
   ![](https://komarev.com/ghpvc/?username=g-marcin)
+  

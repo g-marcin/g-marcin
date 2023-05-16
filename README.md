@@ -81,7 +81,11 @@ Go ahead and check my blog for recent posts:
 
 
 </div>
-</br>
+
+<h2>Stats:</h2>
+
+
+
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-marcin&count_private=true&theme=transparent)
 

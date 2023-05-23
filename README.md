@@ -47,7 +47,7 @@ I deeply focus on getting a good understanding of javascript characteristics and
 
    <tr>
     <td class="tg-0lax">react-exchange</td>
-    <td class="tg-0lax">https://react-exchange1.netlify.app/</td>
+    <td class="tg-0lax">https://react-exchange2.netlify.app/</td>
     <td class="tg-0lax">OK</td>
   </tr>
    

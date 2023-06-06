@@ -50,6 +50,13 @@ I deeply focus on getting a good understanding of javascript characteristics and
     <td class="tg-0lax">https://react-exchange2.netlify.app/</td>
     <td class="tg-0lax">OK</td>
   </tr>
+  <tr>
+    <td class="tg-0lax">angular-exchange</td>
+    <td class="tg-0lax">https://angular-exchange.netlify.app/</td>
+    <td class="tg-0lax">OK</td>
+  </tr>
+  
+
    
   <tr>
     <td class="tg-0lax">react-todo-app</td>
@@ -58,8 +65,7 @@ I deeply focus on getting a good understanding of javascript characteristics and
    
   </tr>
 
-    
- 
+  
     
    
 </tbody>

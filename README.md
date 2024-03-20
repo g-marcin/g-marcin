@@ -80,11 +80,15 @@ I deeply focus on getting a good understanding of javascript characteristics and
 
 <h2>Skills:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,svg,redux,styledcomponents,&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,svg,redux,styledcomponents&theme=light&perline=5)](https://skillicons.dev)
 
 <h2>Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,vite,webpack,linux,figma&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,vite,webpack,linux,mint,figma,bash,cloudflare,postman,yarn&theme=light&perline=5)](https://skillicons.dev)
+
+<h2>Interested in:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,angular,reactivex,vim,nestjs,nginx,nodejs,py,redis,regex,sentry,jest,vitest&theme=light&perline=5)](https://skillicons.dev)
 
 <h2>Journal/blog:</h2>
 

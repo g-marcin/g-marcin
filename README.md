@@ -98,6 +98,8 @@ Go ahead and check my blog for recent posts:
 | --- | --- | --- |
 | [![My Skills](https://skillicons.dev/icons?i=wordpress&theme=light&perline=5)](https://skillicons.dev) |  g-marcin blog:  |  https://gmarcinblog.wordpress.com  | 
 
+migration of blog posts from wordpress.com to blogger.com in progress :)
+https://g-marcin-journal.blogspot.com
 
 </div>
 

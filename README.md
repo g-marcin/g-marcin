@@ -96,9 +96,9 @@ Go ahead and check my blog for recent posts:
 
  |  | Name | Link
 | --- | --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=wordpress&theme=light&perline=5)](https://skillicons.dev) |  g-marcin blog:  |  https://gmarcinblog.wordpress.com  | 
+| [![My Skills](https://skillicons.dev/icons?i=wordpress&theme=light&perline=5)](https://skillicons.dev) |  g-marcin blog(deprecated):  |  https://gmarcinblog.wordpress.com  | 
 
-migration of blog posts from wordpress.com to blogger.com in progress :)
+Old posts available on following address:
 https://g-marcin-journal.blogspot.com
 
 </div>

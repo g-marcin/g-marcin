@@ -6,6 +6,7 @@ Fine design and bringing it into life is what I am passionate about. That is why
 I deeply focus on getting a good understanding of javascript characteristics and environment. In my projects I take advantage of tools such as: static type checkers - Typescript, linters - ESlint and code formatters - Prettify. On regular basis i revise studied topics and collect them into a blog posts. 
 
 
+cv: <a href="https://marcin-grzmil.netlify.app/">https://marcin-grzmil.netlify.app/</a>
 
 <h2>Projects:</h2>
 <table class="tg">
@@ -99,7 +100,7 @@ Go ahead and check my blog for recent posts:
 | [![My Skills](https://skillicons.dev/icons?i=wordpress&theme=light&perline=5)](https://skillicons.dev) |  g-marcin blog(deprecated):  |  https://gmarcinblog.wordpress.com  | 
 
 Old posts available on following address:
-https://g-marcin-journal.blogspot.com
+https://g-marcin.blogspot.com
 
 </div>
 

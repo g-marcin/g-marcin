@@ -81,7 +81,7 @@ resume: <a href="https://marcin-grzmil.netlify.app/">https://marcin-grzmil.netli
 
 <h2>Skills:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,svg,redux,styledcomponents&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,svg,redux,styledcomponents,nextjs&theme=light&perline=5)](https://skillicons.dev)
 
 <h2>Tools:</h2>
 

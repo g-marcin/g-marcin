@@ -6,7 +6,7 @@ Fine design and bringing it into life is what I am passionate about. That is why
 I deeply focus on getting a good understanding of javascript characteristics and environment. In my projects I take advantage of tools such as: static type checkers - Typescript, linters - ESlint and code formatters - Prettify. On regular basis i revise studied topics and collect them into a blog posts. 
 
 
-resume: <a href="https://marcin-grzmil.netlify.app/">https://marcin-grzmil.netlify.app/</a>
+resume: <a href="https://mgrzmil.dev/cv-html">https://marcin-grzmil.netlify.app/</a>
 
 <h2>Projects:</h2>
 <table class="tg">

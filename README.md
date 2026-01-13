@@ -22,40 +22,15 @@ Portfolio site ---> <a href="https://mgrzmil.dev">mgrzmil.dev</a> self-hosted on
     <td class="tg-0lax">OK</td>
   </tr>
   <tr>
-    <td class="tg-0lax">freelancer-website</td>
-    <td class="tg-0lax">https://freelancer-website2.netlify.app/</td>
-    <td class="tg-0lax">OK</td>
-  </tr> 
-  <tr>
-    <td class="tg-0lax">mars-rover-photos</td>
-    <td class="tg-0lax">https://mars-rover-photos1.netlify.app/</td>
+    <td class="tg-0lax">portfolio-site</td>
+    <td class="tg-0lax">https://mgrzmil.dev</td>
     <td class="tg-0lax">OK</td>
   </tr>
   <tr>
-    <td class="tg-0lax">shop-cart</td>
-    <td class="tg-0lax">https://shop-cart2.netlify.app/</td>
-    <td class="tg-0lax">OK</td>
-  </tr> 
-  <tr>
-    <td class="tg-0lax">react-exchange</td>
-    <td class="tg-0lax">https://react-exchange2.netlify.app/</td>
+    <td class="tg-0lax">technical-blog</td>
+    <td class="tg-0lax">https://mgrzmil.dev/blog</td>
     <td class="tg-0lax">OK</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">angular-exchange</td>
-    <td class="tg-0lax">https://angular-exchange.netlify.app/</td>
-    <td class="tg-0lax">OK</td>
-  </tr>  
-  <tr>
-    <td class="tg-0lax">kongsberg-table</td>
-    <td class="tg-0lax">https://kongsberg-table.netlify.app/</td>
-    <td class="tg-0lax">OK</td>
-  </tr> 
-  <tr>
-    <td class="tg-0lax">beer-browser</td>
-    <td class="tg-0lax">https://beer-browser2.netlify.app/</td>
-    <td class="tg-0lax">OK</td>
-  </tr> 
 </tbody>
 </table>
 

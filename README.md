@@ -28,7 +28,7 @@ Portfolio site ---> <a href="https://mgrzmil.dev">mgrzmil.dev</a> self-hosted on
   </tr>
   <tr>
     <td class="tg-0lax">technical-blog</td>
-    <td class="tg-0lax">https://mgrzmil.dev/blog</td>
+    <td class="tg-0lax">https://blog.mgrzmil.dev</td>
     <td class="tg-0lax">OK</td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ Kibana | Jaeger | Grafana
 
 Writing about clean code, refactoring, state management, and software design principles.
 
-Check the blog for recent posts: <a href="https://mgrzmil.dev/blog">mgrzmil.dev/blog</a>
+Check the blog for recent posts: <a href="https://blog.mgrzmil.dev">mgrzmil.dev/blog</a>
 
 <h2>Stats:</h2>
 

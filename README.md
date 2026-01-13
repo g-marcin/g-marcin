@@ -18,7 +18,7 @@ Portfolio site ---> <a href="https://mgrzmil.dev">mgrzmil.dev</a> self-hosted on
 <tbody>
   <tr>
     <td class="tg-0lax">woof-app</td>
-    <td class="tg-0lax">https://woof-app-ff670.web.app/</td>
+    <td class="tg-0lax">https://app.mgrzmil.dev</td>
     <td class="tg-0lax">OK</td>
   </tr>
   <tr>
@@ -29,6 +29,16 @@ Portfolio site ---> <a href="https://mgrzmil.dev">mgrzmil.dev</a> self-hosted on
   <tr>
     <td class="tg-0lax">technical-blog</td>
     <td class="tg-0lax">https://mgrzmil.dev/blog</td>
+    <td class="tg-0lax">OK</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">cdn</td>
+    <td class="tg-0lax">https://cdn.mgrzmil.dev/docs</td>
+    <td class="tg-0lax">OK</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">api</td>
+    <td class="tg-0lax">https://mgrzmil.dev/dog-api</td>
     <td class="tg-0lax">OK</td>
   </tr>
 </tbody>

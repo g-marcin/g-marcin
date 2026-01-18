@@ -38,7 +38,7 @@ Portfolio site ---> <a href="https://mgrzmil.dev">mgrzmil.dev</a> self-hosted on
   </tr>
   <tr>
     <td class="tg-0lax">api</td>
-    <td class="tg-0lax">https://mgrzmil.dev/dog-api</td>
+    <td class="tg-0lax">https://api.mgrzmil.dev/docs</td>
     <td class="tg-0lax">OK</td>
   </tr>
 </tbody>

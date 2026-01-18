@@ -56,10 +56,7 @@ Portfolio site ---> <a href="https://mgrzmil.dev">mgrzmil.dev</a> self-hosted on
 
 [![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=light&perline=5)](https://skillicons.dev)
 
-Kibana | Jaeger | Grafana
-
-<h2>Journal/blog:</h2>
-
+<h2>blog:</h2>
 Writing about clean code, refactoring, state management, and software design principles.
 
 Check the blog for recent posts: <a href="https://blog.mgrzmil.dev">mgrzmil.dev/blog</a>

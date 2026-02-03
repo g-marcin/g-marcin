@@ -61,9 +61,9 @@ Writing about clean code, refactoring, state management, and software design pri
 
 Check the blog for recent posts: <a href="https://blog.mgrzmil.dev">mgrzmil.dev/blog</a>
 
-<h2>Stats:</h2>
+<!-- <h2>Stats:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-marcin&count_private=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-marcin&count_private=true&theme=transparent) -->
 
 ![](https://komarev.com/ghpvc/?username=g-marcin)
 

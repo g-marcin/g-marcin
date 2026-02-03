@@ -44,7 +44,7 @@ Portfolio site ---> <a href="https://mgrzmil.dev">mgrzmil.dev</a> self-hosted on
 </tbody>
 </table>
 
-<h2>Skills:</h2>
+<!-- <h2>Skills:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,nodejs,express,postgres,redis&theme=light&perline=6)](https://skillicons.dev)
 
@@ -54,7 +54,7 @@ Portfolio site ---> <a href="https://mgrzmil.dev">mgrzmil.dev</a> self-hosted on
 
 <h2>Testing & Monitoring:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=light&perline=5)](https://skillicons.dev) -->
 
 <h2>blog:</h2>
 Writing about clean code, refactoring, state management, and software design principles.
